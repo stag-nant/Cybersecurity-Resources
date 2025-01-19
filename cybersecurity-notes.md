@@ -14,7 +14,7 @@ Table of Contents
 8. Password Cracking and Default Credentials
 9. Miscellaneous Tools and Resources
 
-10. Cryptography and Hash Analysis
+1. Cryptography and Hash Analysis
 
 - RSA Tools
   - [RSATool](https://github.com/ius/rsatool): Generate RSA private keys with arbitrary exponents.
